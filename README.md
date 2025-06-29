@@ -17,7 +17,7 @@ To resolve this, we **merged another public heart disease dataset** with similar
   - [Additional Heart Dataset from Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) *(used for merging)*
 
 - **Final Merged File**:  
-  `merged_heart_disease.csv`
+  `heart.csv`
 
 - **Target Column**:  
   `condition` → 0 = No heart disease, 1 = Heart disease
